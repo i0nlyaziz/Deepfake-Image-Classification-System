@@ -1,0 +1,7 @@
+streamlit>=1.63.0
+torch>=2.11.0
+torchvision>=0.26.0
+opencv-python>=4.10.0.84
+numpy>=2.4.6
+pillow>=12.3.0
+pandas>=3.0.5
